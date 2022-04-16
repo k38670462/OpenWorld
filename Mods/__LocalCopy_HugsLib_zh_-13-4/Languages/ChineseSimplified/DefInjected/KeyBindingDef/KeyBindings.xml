@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Open Mod Setting window -->
+  <HLOpenModSettings.label>打开Mod设置窗口</HLOpenModSettings.label>
+  
+  <!-- EN: Open Mod Update News window -->
+  <HLOpenUpdateNews.label>打开Mod更新消息窗口</HLOpenUpdateNews.label>
+  
+  <!-- EN: Open log file -->
+  <OpenLogFile.label>打开日志文件</OpenLogFile.label>
+  
+  <!-- EN: Publish log file (hold Ctrl) -->
+  <PublishLogs.label>发布日志文件（按住Ctrl）</PublishLogs.label>
+  
+  <!-- EN: Restart Rimworld -->
+  <RestartRimworld.label>重启RimWorld</RestartRimworld.label>
+  
+</LanguageData>

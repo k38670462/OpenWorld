@@ -1,0 +1,21 @@
+- Server Details -
+Server Name: My Server Name
+Server Description: My Server Description
+Server Local IP: 0.0.0.0
+Server Port: 25555
+Max Players: 300
+Allow Dev Mode: False
+Use Whitelist: False
+
+- DLC Details -
+Use Royalty: False
+Use Ideology: False
+
+- Wealth System Details -
+Use Wealth System: False
+Wealth Warning Threshold: 10000
+Wealth Ban Threshold: 100000
+
+- Idle System Details -
+Use Idle System: True
+Idle Threshold (days): 7

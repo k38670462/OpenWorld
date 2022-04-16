@@ -1,0 +1,16 @@
+[4/16/2022 12:18:40 AM] │ Server Startup:
+[4/16/2022 12:18:40 AM] │ Using Culture Info: [en-US]
+[4/16/2022 12:18:40 AM] │ Base Directory At: [C:\Users\kevin\OneDrive\桌面\open world\]
+[4/16/2022 12:18:40 AM] │ Loaded Settings File
+[4/16/2022 12:18:40 AM] │ Loaded [8] Mods
+[4/16/2022 12:18:40 AM] │ No Whitelisted Mods Found, Ignoring
+[4/16/2022 12:18:40 AM] │ Loaded [2] Player Files
+[4/16/2022 12:18:40 AM] │ No Bans File Found, Ignoring
+[4/16/2022 12:18:40 AM] │ No Whitelisted Players Found, Ignoring
+[4/16/2022 12:18:40 AM] │ Loaded World File
+[4/16/2022 12:18:41 AM] │ Server Started
+[4/16/2022 12:18:41 AM] │ Type 'Help' To See Available Commands
+[4/16/2022 12:18:41 AM] │ Network Line Started
+
+[4/16/2022 12:23:51 AM] │ Player [kevinmintywiz] [140.114.196.154] Has Connected
+[4/16/2022 12:37:20 AM] │ Player [kevinmintywiz] Has Disconnected

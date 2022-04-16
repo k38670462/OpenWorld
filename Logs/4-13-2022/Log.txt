@@ -1,0 +1,189 @@
+[4/13/2022 12:01:49 AM] │ Server Startup:
+[4/13/2022 12:01:49 AM] │ Using Culture Info: [en-US]
+[4/13/2022 12:01:49 AM] │ Base Directory At: [C:\Users\kevin\OneDrive\桌面\open world\]
+[4/13/2022 12:01:49 AM] │ Generating Settings File
+[4/13/2022 12:01:49 AM] │ Loaded Settings File
+[4/13/2022 12:01:49 AM] │ No Mods Folder Found, Generating
+[4/13/2022 12:01:49 AM] │ No Whitelisted Mods Folder Found, Generating
+[4/13/2022 12:01:49 AM] │ No Players Folder Found, Generating
+[4/13/2022 12:01:49 AM] │ No Bans File Found, Ignoring
+[4/13/2022 12:01:49 AM] │ No Whitelisted Players File Found, Generating
+[4/13/2022 12:01:49 AM] │ Generating World File
+[4/13/2022 12:01:49 AM] │ Loaded World File
+[4/13/2022 12:01:50 AM] │ Server Started
+[4/13/2022 12:01:50 AM] │ Type 'Help' To See Available Commands
+[4/13/2022 12:01:50 AM] │ Network Line Started
+
+[4/13/2022 12:11:36 AM] │ Server Startup:
+[4/13/2022 12:11:36 AM] │ Using Culture Info: [en-US]
+[4/13/2022 12:11:36 AM] │ Base Directory At: [C:\Users\kevin\OneDrive\桌面\open world\]
+[4/13/2022 12:11:36 AM] │ Loaded Settings File
+[4/13/2022 12:11:36 AM] │ No Mods Found, Ignoring
+[4/13/2022 12:11:36 AM] │ No Whitelisted Mods Found, Ignoring
+[4/13/2022 12:11:36 AM] │ No Saved Players Found, Ignoring
+[4/13/2022 12:11:36 AM] │ No Bans File Found, Ignoring
+[4/13/2022 12:11:36 AM] │ No Whitelisted Players Found, Ignoring
+[4/13/2022 12:11:36 AM] │ Loaded World File
+[4/13/2022 12:11:36 AM] │ Server Started
+[4/13/2022 12:11:36 AM] │ Type 'Help' To See Available Commands
+[4/13/2022 12:11:36 AM] │ Network Line Started
+
+[4/13/2022 12:12:03 AM] │ Player [] Has Disconnected
+[4/13/2022 12:12:56 AM] │ Server doesn't allow player's mod or mod files mismatch! [Harmony]
+[4/13/2022 12:12:56 AM] │ Player [Kevin104115] Has Disconnected
+[4/13/2022 12:17:19 AM] │ Server doesn't allow player's mod or mod files mismatch! [Harmony]
+[4/13/2022 12:17:19 AM] │ Player [Kevin104115] Has Disconnected
+[4/13/2022 12:17:28 AM] │ Server Startup:
+[4/13/2022 12:17:28 AM] │ Using Culture Info: [en-US]
+[4/13/2022 12:17:28 AM] │ Base Directory At: [C:\Users\kevin\OneDrive\桌面\open world\]
+[4/13/2022 12:17:28 AM] │ Loaded Settings File
+[4/13/2022 12:17:28 AM] │ Loaded [24] Mods
+[4/13/2022 12:17:28 AM] │ No Whitelisted Mods Found, Ignoring
+[4/13/2022 12:17:28 AM] │ No Saved Players Found, Ignoring
+[4/13/2022 12:17:28 AM] │ No Bans File Found, Ignoring
+[4/13/2022 12:17:28 AM] │ No Whitelisted Players Found, Ignoring
+[4/13/2022 12:17:28 AM] │ Loaded World File
+[4/13/2022 12:17:28 AM] │ Server Started
+[4/13/2022 12:17:28 AM] │ Type 'Help' To See Available Commands
+[4/13/2022 12:17:28 AM] │ Network Line Started
+
+[4/13/2022 12:17:36 AM] │ Player doesn't have the required mod or mod files mismatch! [EdB Prepare Carefully_zh]
+[4/13/2022 12:17:36 AM] │ Player [Kevin104115] Has Disconnected
+[4/13/2022 12:19:27 AM] │ New Player [Kevin104115] [140.114.196.154] Has Connected For The First Time
+[4/13/2022 12:20:37 AM] │ Player [Kevin104115] Has Disconnected
+[4/13/2022 12:20:43 AM] │ Player [Kevin104115] [140.114.196.154] Has Connected
+[4/13/2022 12:20:43 AM] │ Player [Kevin104115] Has Reset Game Progress
+[4/13/2022 12:21:51 AM] │ Settlement With ID [102142] And Owner [Kevin104115] Has Been Added
+[4/13/2022 12:22:42 AM] │ Player [Kevin104115] Has Disconnected
+[4/13/2022 12:25:21 AM] │ Player [Kevin104115] [140.114.196.154] Has Connected
+[4/13/2022 12:26:48 AM] │ Player [Kevin104115] [140.114.196.154] Has Connected
+[4/13/2022 12:26:48 AM] │ Settlement With ID [102142] Has Been Deleted
+[4/13/2022 12:26:48 AM] │ Player [Kevin104115] Has Reset Game Progress
+[4/13/2022 12:26:48 AM] │ Player [Kevin104115] Has Disconnected
+[4/13/2022 12:29:00 AM] │ New Player [k38670462] [140.114.196.154] Has Connected For The First Time
+[4/13/2022 12:29:37 AM] │ Settlement With ID [102142] And Owner [k38670462] Has Been Added
+[4/13/2022 12:30:16 AM] │ Player [Kevin104115] [140.114.196.154] Has Connected
+[4/13/2022 12:30:16 AM] │ Player [Kevin104115] Has Disconnected
+[4/13/2022 12:31:24 AM] │ Player [Kevin104115] [140.114.196.154] Has Connected
+[4/13/2022 12:31:24 AM] │ Player [Kevin104115] Has Disconnected
+[4/13/2022 12:31:51 AM] │ Player [Kevin104115] [140.114.196.154] Has Connected
+[4/13/2022 12:31:51 AM] │ Player [Kevin104115] Has Reset Game Progress
+[4/13/2022 12:31:51 AM] │ Player [Kevin104115] Has Disconnected
+[4/13/2022 12:36:19 AM] │ Server Startup:
+[4/13/2022 12:36:19 AM] │ Using Culture Info: [en-US]
+[4/13/2022 12:36:19 AM] │ Base Directory At: [C:\Users\kevin\OneDrive\桌面\open world\]
+[4/13/2022 12:36:19 AM] │ Loaded Settings File
+[4/13/2022 12:36:19 AM] │ Loaded [24] Mods
+[4/13/2022 12:36:19 AM] │ No Whitelisted Mods Found, Ignoring
+[4/13/2022 12:36:19 AM] │ Loaded [2] Player Files
+[4/13/2022 12:36:19 AM] │ No Bans File Found, Ignoring
+[4/13/2022 12:36:19 AM] │ No Whitelisted Players Found, Ignoring
+[4/13/2022 12:36:19 AM] │ Loaded World File
+[4/13/2022 12:36:19 AM] │ Server Started
+[4/13/2022 12:36:19 AM] │ Type 'Help' To See Available Commands
+[4/13/2022 12:36:19 AM] │ Network Line Started
+
+[4/13/2022 12:37:00 AM] │ Player [Kevin104115] [140.114.196.154] Has Connected
+[4/13/2022 12:37:09 AM] │ Settlement With ID [102161] And Owner [Kevin104115] Has Been Added
+[4/13/2022 12:38:52 AM] │ Player [Kevin104115] Has Been Promoted
+
+[4/13/2022 12:39:03 AM] │ Player [Kevin104115] Has Disconnected
+[4/13/2022 12:40:55 AM] │ Player [k38670462] Has Been Kicked For: [Wrong Password]
+[4/13/2022 12:40:55 AM] │ Player [k38670462] Has Disconnected
+[4/13/2022 12:41:02 AM] │ Player [k38670462] [140.114.196.154] Has Connected
+[4/13/2022 12:42:22 AM] │ Player [k38670462] [140.114.196.154] Has Connected
+[4/13/2022 12:42:22 AM] │ Player [k38670462] Has Disconnected
+[4/13/2022 12:42:23 AM] │ Player [k38670462] Has Disconnected
+[4/13/2022 12:42:38 AM] │ Player [k38670462] [140.114.196.154] Has Connected
+[4/13/2022 12:45:03 AM] │ Player [k38670462] Has Disconnected
+[4/13/2022 1:03:53 AM] │ Server Startup:
+[4/13/2022 1:03:53 AM] │ Using Culture Info: [en-US]
+[4/13/2022 1:03:53 AM] │ Base Directory At: [C:\Users\kevin\OneDrive\桌面\open world\]
+[4/13/2022 1:03:53 AM] │ Loaded Settings File
+[4/13/2022 1:03:53 AM] │ Loaded [6] Mods
+[4/13/2022 1:03:53 AM] │ No Whitelisted Mods Found, Ignoring
+[4/13/2022 1:03:53 AM] │ Loaded [2] Player Files
+[4/13/2022 1:03:53 AM] │ No Bans File Found, Ignoring
+[4/13/2022 1:03:53 AM] │ No Whitelisted Players Found, Ignoring
+[4/13/2022 1:03:53 AM] │ Loaded World File
+[4/13/2022 1:03:53 AM] │ Server Started
+[4/13/2022 1:03:53 AM] │ Type 'Help' To See Available Commands
+[4/13/2022 1:03:53 AM] │ Network Line Started
+
+[4/13/2022 1:04:22 AM] │ Player [k38670462] [140.114.196.154] Has Connected
+[4/13/2022 1:04:47 AM] │ Player [k38670462] [140.114.196.154] Has Connected
+[4/13/2022 1:04:47 AM] │ Settlement With ID [102142] Has Been Deleted
+[4/13/2022 1:04:47 AM] │ Player [k38670462] Has Reset Game Progress
+[4/13/2022 1:04:48 AM] │ Player [k38670462] Has Disconnected
+[4/13/2022 1:05:10 AM] │ Player [k38670462] [140.114.196.154] Has Connected
+[4/13/2022 1:05:10 AM] │ Player [k38670462] Has Reset Game Progress
+[4/13/2022 1:05:10 AM] │ Player [k38670462] Has Disconnected
+[4/13/2022 1:05:11 AM] │ Player [k38670462] Has Disconnected
+[4/13/2022 1:05:26 AM] │ Player [k38670462] [140.114.196.154] Has Connected
+[4/13/2022 1:05:26 AM] │ Player [k38670462] Has Reset Game Progress
+[4/13/2022 1:07:14 AM] │ Settlement With ID [82755] And Owner [k38670462] Has Been Added
+[4/13/2022 1:07:22 AM] │ Player [k38670462] Has Been Promoted
+
+[4/13/2022 1:09:49 AM] │ Player [k38670462] Has Disconnected
+[4/13/2022 1:10:12 AM] │ New Player [kevinmintywiz] [140.114.196.154] Has Connected For The First Time
+[4/13/2022 1:10:57 AM] │ Settlement With ID [19220] And Owner [kevinmintywiz] Has Been Added
+[4/13/2022 1:11:07 AM] │ Player [kevinmintywiz] Has Been Promoted
+
+[4/13/2022 1:13:44 AM] │ Loaded [6] Mods
+[4/13/2022 1:13:44 AM] │ No Whitelisted Mods Found, Ignoring
+[4/13/2022 1:13:44 AM] │ No Whitelisted Players Found, Ignoring
+[4/13/2022 1:15:11 AM] │ Player [kevinmintywiz] Has Disconnected
+[4/13/2022 1:16:31 AM] │ Server Startup:
+[4/13/2022 1:16:31 AM] │ Using Culture Info: [en-US]
+[4/13/2022 1:16:31 AM] │ Base Directory At: [C:\Users\kevin\OneDrive\桌面\open world\]
+[4/13/2022 1:16:31 AM] │ Loaded Settings File
+[4/13/2022 1:16:31 AM] │ Loaded [8] Mods
+[4/13/2022 1:16:31 AM] │ No Whitelisted Mods Found, Ignoring
+[4/13/2022 1:16:31 AM] │ Loaded [2] Player Files
+[4/13/2022 1:16:31 AM] │ No Bans File Found, Ignoring
+[4/13/2022 1:16:31 AM] │ No Whitelisted Players Found, Ignoring
+[4/13/2022 1:16:31 AM] │ Loaded World File
+[4/13/2022 1:16:31 AM] │ Server Started
+[4/13/2022 1:16:31 AM] │ Type 'Help' To See Available Commands
+[4/13/2022 1:16:31 AM] │ Network Line Started
+
+[4/13/2022 1:17:48 AM] │ Player [kevinmintywiz] [140.114.196.154] Has Connected
+[4/13/2022 1:19:12 AM] │ Player [kevinmintywiz] [140.114.196.154] Has Connected
+[4/13/2022 1:19:24 AM] │ Player [kevinmintywiz] [140.114.196.154] Has Connected
+[4/13/2022 1:19:32 AM] │ Player [kevinmintywiz] Has Disconnected
+[4/13/2022 1:19:32 AM] │ Player [kevinmintywiz] Has Disconnected
+[4/13/2022 1:19:32 AM] │ Player [kevinmintywiz] Has Disconnected
+[4/13/2022 1:19:35 AM] │ Player [kevinmintywiz] Has Disconnected
+[4/13/2022 1:22:07 AM] │ Player [kevinmintywiz] [140.114.196.154] Has Connected
+[4/13/2022 1:26:35 AM] │ Server Startup:
+[4/13/2022 1:26:35 AM] │ Using Culture Info: [en-US]
+[4/13/2022 1:26:35 AM] │ Base Directory At: [C:\Users\kevin\OneDrive\桌面\open world\]
+[4/13/2022 1:26:35 AM] │ Loaded Settings File
+[4/13/2022 1:26:35 AM] │ Loaded [8] Mods
+[4/13/2022 1:26:35 AM] │ No Whitelisted Mods Found, Ignoring
+[4/13/2022 1:26:35 AM] │ Loaded [2] Player Files
+[4/13/2022 1:26:35 AM] │ No Bans File Found, Ignoring
+[4/13/2022 1:26:35 AM] │ No Whitelisted Players Found, Ignoring
+[4/13/2022 1:26:35 AM] │ Loaded World File
+[4/13/2022 1:26:36 AM] │ Server Started
+[4/13/2022 1:26:36 AM] │ Type 'Help' To See Available Commands
+[4/13/2022 1:26:36 AM] │ Network Line Started
+
+[4/13/2022 1:27:21 AM] │ Player [kevinmintywiz] [140.114.196.154] Has Connected
+[4/13/2022 1:27:52 AM] │ Player [kevinmintywiz] Has Disconnected
+[4/13/2022 1:28:59 AM] │ Server Startup:
+[4/13/2022 1:28:59 AM] │ Using Culture Info: [en-US]
+[4/13/2022 1:28:59 AM] │ Base Directory At: [C:\Users\kevin\OneDrive\桌面\open world\]
+[4/13/2022 1:28:59 AM] │ Loaded Settings File
+[4/13/2022 1:28:59 AM] │ Loaded [10] Mods
+[4/13/2022 1:28:59 AM] │ No Whitelisted Mods Found, Ignoring
+[4/13/2022 1:28:59 AM] │ Loaded [2] Player Files
+[4/13/2022 1:28:59 AM] │ No Bans File Found, Ignoring
+[4/13/2022 1:28:59 AM] │ No Whitelisted Players Found, Ignoring
+[4/13/2022 1:28:59 AM] │ Loaded World File
+[4/13/2022 1:28:59 AM] │ Server Started
+[4/13/2022 1:28:59 AM] │ Type 'Help' To See Available Commands
+[4/13/2022 1:28:59 AM] │ Network Line Started
+
+[4/13/2022 1:29:08 AM] │ Player [kevinmintywiz] [140.114.196.154] Has Connected
+[4/13/2022 1:36:21 AM] │ Player [kevinmintywiz] Has Disconnected

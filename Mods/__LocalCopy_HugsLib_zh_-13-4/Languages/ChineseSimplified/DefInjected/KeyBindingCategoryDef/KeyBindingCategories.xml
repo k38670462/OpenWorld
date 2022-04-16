@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: HugsLib -->
+  <HugsLibShortcuts.label>HugsLib</HugsLibShortcuts.label>
+  <!-- EN: Shortcuts for the HugsLib library. -->
+  <HugsLibShortcuts.description>HugsLib运行库的快捷键。</HugsLibShortcuts.description>
+  
+</LanguageData>
